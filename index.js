@@ -11,4 +11,5 @@ newHeader.id = "victory";
 newHeader.textContent = "Naima is the champion";
 
 // Append it to the body
-document.body.appendChild(newHeader);
+document.body.append(newHeader);
+
